@@ -12,5 +12,6 @@ Set up Truffle (The blockchain is operated by truffle)
 ```
 ## Start
 ```
+$ npm install
 $ npm start
 ```
