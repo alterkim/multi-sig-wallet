@@ -1,3 +1,16 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/89119fad-27b2-4b4d-a294-c6e0698bfe3e/deploy-status)](https://app.netlify.com/sites/multi-sig/deploys)
+# Multi-sig wallet
 
-demo https://multi-sig.netlify.app/
+## Environment
+``` 
+node: v14.0.0
+npm : v6.14.4
+```
+
+## Prerequisite
+```
+Set up Truffle (The blockchain is operated by truffle)
+```
+## Start
+```
+$ npm start
+```
