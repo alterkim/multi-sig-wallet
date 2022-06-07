@@ -4,7 +4,6 @@ import { unlockAccount } from "../api/web3";
 import "./index.css";
 import useAsync from "../components/useAsync";
 import { useWeb3Context } from "../contexts/Web3";
-import MultiSigWallet from "./MultiSigWallet";
 import Network from "./Network";
 import { useMultiSigWalletContext } from "../contexts/MultiSigWallet";
 import CreateTxModal from "./CreateTxModal";
